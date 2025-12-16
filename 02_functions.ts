@@ -21,6 +21,7 @@ function getValue(myVal: number): boolean{
     return false;
 }
 
+//better way to write
 const getHello = (s:string) : string => {
     return ""
 }
