@@ -1,0 +1,1 @@
+### [Tuple Problem StackOverflow](https://stackoverflow.com/questions/64069552/typescript-array-push-method-cant-catch-a-tuple-type-of-the-array)
